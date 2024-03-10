@@ -21,7 +21,7 @@ Happy coding! 🚀
 ---
 🧰Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL logo" width="50px" heigth="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL logo" width="50px" heigth="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px"> <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" alt="C++ logo" width="50px" height="50px"> <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" alt="Assembly logo" width="50px" height="50px">
 
 
 ---
