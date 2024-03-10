@@ -19,7 +19,12 @@ Assembly: Delving into the low-level intricacies of computer architecture.
 
 Happy coding! 🚀
 ---
+🧰Toolbox
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL logo" width="50px" heigth="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px"> 
+
+
+---
 <!--
 **CosminPetriuc/CosminPetriuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
