@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/yashpreet2707/yashpreet2707/blob/main/assets/wave.gif" width="30px"> , I am Cosmin Petriuc!
 ---
 
-📚 Mathematics & Computer Science Student | Second Year 🖥️
+📚 Mathematics & Computer Science Student | Third Year 🖥️
 
 <img src="https://github.com/yashpreet2707/yashpreet2707/blob/main/assets/wave.gif" width="30px"> Welcome to my GitHub profile! My name is Cosmin Petriuc and I'm a passionate mathematics and computer science student currently in my second year of study. My journey in the world of programming and problem-solving has been exhilarating so far, and I'm eager to share my projects and learning experiences with you.
 
